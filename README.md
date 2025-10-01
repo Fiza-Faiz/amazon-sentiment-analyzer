@@ -330,7 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. **Memory Management**: Use data generators for large datasets
 3. **Model Size**: Reduce embedding/LSTM dimensions if needed
 
-## 📞 Support
 
 For questions, issues, or contributions:
 
@@ -340,4 +339,3 @@ For questions, issues, or contributions:
 
 ---
 
-**Built with ❤️ for better customer sentiment understanding**
